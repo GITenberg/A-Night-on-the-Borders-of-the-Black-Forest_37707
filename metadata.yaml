@@ -1,0 +1,34 @@
+_repo: A-Night-on-the-Borders-of-the-Black-Forest_37707
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Edwards, Amelia Ann Blanford
+    aliases:
+    - Edwards, Amelia Blanford
+    - Edwards, Amelia B. (Amelia Blanford)
+    birthdate: 1831
+    deathdate: 1892
+    gutenberg_agent_id: '2716'
+    url: http://www.gutenberg.org/2009/agents/2716
+    wikipedia: http://en.wikipedia.org/wiki/Amelia_Edwards
+description: ''
+gutenberg_issued: '2011-10-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37707'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, English'
+- !lcc 'PR'
+- !lcsh 'Fiction'
+tableOfContents: A night on the borders of the Black Forest -- The story of Salome
+  -- In the confessional -- The tragedy in the Palazzo Bardello -- The four-fifteen
+  express -- Sister Johanna's story -- All-Saints' Eve.
+title: A Night on the Borders of the Black Forest
+url: http://www.gutenberg.org/ebooks/37707
